@@ -3,7 +3,7 @@
 https://github.com/hengchuan/RDN-TensorFlow
 
 ![](https://github.com/theerawatramchuen/Super_Resolution_RDN/blob/master/compare.jpg?raw=true)
-
+![](https://github.com/theerawatramchuen/Super_Resolution_RDN/blob/master/CompareGoldBall.jpg?raw=true)
 A TensorFlow implementation of CVPR 2018 paper [Residual Dense Network for Image Super-Resolution](https://arxiv.org/abs/1802.08797).  
 Official implementation: [Torch code for our CVPR 2018 paper "Residual Dense Network for Image Super-Resolution" (Spotlight)](https://github.com/yulunzhang/RDN)
   
